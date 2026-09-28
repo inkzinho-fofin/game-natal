@@ -1,4 +1,3 @@
-javascript
 /*
 ============================================================
 DESAFIO DE NATAL — BLOX FRUITS
